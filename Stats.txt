@@ -1,0 +1,22 @@
+covariance:Direction btata hy two variable me
+correlation:strength btata hy mgr kitny strength hy wo nahi btata
+
+Rregression:
+            x=age,weight,height,Family Disease,Monthly Income,Transportation,Married,Nature of Job
+            Y=Diabetes
+
+            kisi by Variable ka correlation nikaly gy Diabetes ky sath kitny strength hy
+
+Linear Regression:
+                            (x,y)
+                            (2,1)
+                             (4,7)
+
+y=mx+c slope intercept form two point form  y-y1/y2-y1=x-x1/x2-x1
+
+two intercept form x/a + y/b
+
+slope=m=gradiant=tan@=weight=rise/run=y/x
+
+Straight Line Slope =m=y2-y1/x2-x1(at Every Point Slope Same aega)
+
