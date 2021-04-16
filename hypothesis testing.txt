@@ -1,0 +1,5 @@
+mean value - null hypothesis(recommended value) / standard error
+
+standard error:
+sample mean/root of no of sample
+
